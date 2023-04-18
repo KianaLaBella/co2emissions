@@ -10,7 +10,7 @@ I will be using the CoLab software, created by Google, to code with Python for t
 
 The data used in this lab is from *Our World in Data*. It is a recording of all Greenhouse Gas and CO2 Emissions in the world, organized by country, continent, and world. It is updated regularly, as needed, and keeps a well-rounded collection of each country's contributon to harmful emissions in the atmosphere. It also organizes the emissions by their source. For example, CO2 is given generally, but also given as CO2 per Capita, CO2 per GDP, etc.
 
-I used [owid-co2-data.csv](https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv) for the data analyzed in this lab. This [codebook](https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv), also linked in the lab, 
+I used [owid-co2-data.csv](https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv) for the data analyzed in this lab. This [codebook](https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv), also linked in the lab, provides information about each category, complete with its title and description. I used this as a reference point to analyze what variables are measured continuously, as objects, etc.
 
 ## Data Processing
 
@@ -24,4 +24,4 @@ This lab was done by Kiana LaBella, a Civil Engineering student at Seattle Unive
 
 ## License
 
-The data analysis in this lab is open access for all to use and reference, with credit to both the author and *Our World in Data*. 
+The data analysis in this lab is open access for all to use and reference, with credit to both the author and *Our World in Data* (see their license for more information on how to cite). 
