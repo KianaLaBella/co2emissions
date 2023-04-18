@@ -24,4 +24,4 @@ This lab was done by Kiana LaBella, a Civil Engineering student at Seattle Unive
 
 ## License
 
-The data analysis in this lab is open access for all to use and reference, with credit to both the author and *Our World in Data*. 
+The data analysis in this lab is open access for all to use and reference, with credit to both the author and [Our World in Data](https://github.com/owid/co2-data). 
