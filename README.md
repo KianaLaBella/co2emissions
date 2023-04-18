@@ -8,12 +8,16 @@ I will be using the CoLab software, created by Google, to code using Python for 
 
 ## Data
 
+The data used in this lab is from Our World in Data (https://github.com/owid/co2-data). It is a recording of all Greenhouse Gas and CO2 Emissions in the world, organized by country, continent, and world. It is updated regularly, as needed, and keeps a well-rounded collection of each country's contributon to harmful emissions in the atmosphere. It also organizes the emissions by their source. For example, 
 
 ## Data Processing
 
 
 ## Author
 
+This lab was done by Kiana LaBella, a Civil Engineering student at Seattle University. She is also pursuing minors in Mathematics and Writing Studies. She hopes that the data analysis depicted in this repository will be useful for understanding how different countries contribute to excessive CO2 emissions in the atmosphere.
+
+LinkedIn - https://www.linkedin.com/in/kiana-labella
 
 ## License
 
