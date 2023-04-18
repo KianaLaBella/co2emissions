@@ -1,6 +1,6 @@
 # Top 10 CO2 Emitters Over 50 Years
 This code will analyze the top 10 countries with the most CO2 emissions and their developments over 50 years (1971-2020).
-I will be using the data from [Our World in Data](https://github.com/owid/co2-data) in order to complete this lab. I downloaded it from the link entitled owid-co2-data.csv on March 29, 2023.
+I will be using the data from [*Our World in Data*](https://github.com/owid/co2-data) in order to complete this lab. I downloaded it from the link entitled owid-co2-data.csv on March 29, 2023.
 
 ## Requirements
 
@@ -8,7 +8,7 @@ I will be using the CoLab software, created by Google, to code with Python for t
 
 ## Data
 
-The data used in this lab is from [Our World in Data](https://github.com/owid/co2-data). It is a recording of all Greenhouse Gas and CO2 Emissions in the world, organized by country, continent, and world. It is updated regularly, as needed, and keeps a well-rounded collection of each country's contributon to harmful emissions in the atmosphere. It also organizes the emissions by their source. For example, CO2 is given generally, but also given as CO2 per Capita, CO2 per GDP, etc.
+The data used in this lab is from *Our World in Data*. It is a recording of all Greenhouse Gas and CO2 Emissions in the world, organized by country, continent, and world. It is updated regularly, as needed, and keeps a well-rounded collection of each country's contributon to harmful emissions in the atmosphere. It also organizes the emissions by their source. For example, CO2 is given generally, but also given as CO2 per Capita, CO2 per GDP, etc.
 
 I used [owid-co2-data.csv](https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv) for the data analyzed in this lab. This [codebook](https://github.com/owid/co2-data/blob/master/owid-co2-codebook.csv), also linked in the lab, 
 
@@ -24,4 +24,4 @@ This lab was done by Kiana LaBella, a Civil Engineering student at Seattle Unive
 
 ## License
 
-The data analysis in this lab is open access for all to use and reference, with credit to both the author and [Our World in Data](https://github.com/owid/co2-data). 
+The data analysis in this lab is open access for all to use and reference, with credit to both the author and *Our World in Data*. 
