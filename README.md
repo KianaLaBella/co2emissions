@@ -8,7 +8,9 @@ I will be using the CoLab software, created by Google, to code with Python for t
 
 ## Data
 
-The data used in this lab is from *Our World in Data* (https://github.com/owid/co2-data). It is a recording of all Greenhouse Gas and CO2 Emissions in the world, organized by country, continent, and world. It is updated regularly, as needed, and keeps a well-rounded collection of each country's contributon to harmful emissions in the atmosphere. It also organizes the emissions by their source. For example, 
+The data used in this lab is from *Our World in Data* (https://github.com/owid/co2-data). It is a recording of all Greenhouse Gas and CO2 Emissions in the world, organized by country, continent, and world. It is updated regularly, as needed, and keeps a well-rounded collection of each country's contributon to harmful emissions in the atmosphere. It also organizes the emissions by their source. For example, CO2 is given generally, but also given as CO2 per Capita, CO2 per GDP, etc.
+
+
 
 ## Data Processing
 
