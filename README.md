@@ -8,3 +8,12 @@ I will be using the CoLab software, created by Google, to code using Python for 
 
 ## Data
 
+
+## Data Processing
+
+
+## Author
+
+
+## License
+
