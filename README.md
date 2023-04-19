@@ -14,7 +14,7 @@ I used [owid-co2-data.csv](https://raw.githubusercontent.com/owid/co2-data/maste
 
 ## Data Processing
 
-The software listed in the Requirements section were used to clean and process the data. The results of this new, streamlined depiction of *Our World in Data*'s csv, given by owid-co2-data.csv, is presented and analyzed in the lab, coded in [Colab](.
+The software listed in the Requirements section were used to clean and process the data. The results of this new, streamlined depiction of *Our World in Data*'s csv, given by owid-co2-data.csv, is presented and analyzed in the lab, coded in [Colab](https://github.com/KianaLaBella/co2emissions/blob/main/Kiana%20LaBella%20MATH%202315%20Lab%201.ipynb).
 
 ## Author
 
