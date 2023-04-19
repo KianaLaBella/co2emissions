@@ -16,7 +16,7 @@ I used [owid-co2-data.csv](https://raw.githubusercontent.com/owid/co2-data/maste
 
 The software listed in the Requirements section were used to clean and process the data. The results of this new, streamlined depiction of *Our World in Data*'s csv, given by owid-co2-data.csv, is presented and analyzed in the lab, coded in [Colab](https://github.com/KianaLaBella/co2emissions/blob/main/Kiana%20LaBella%20MATH%202315%20Lab%201.ipynb).
 
-The data in the owid-co2-data.csv file also needed cleaning before my analysis, as it contained data from the world, regions, countries, and continents. For the purpose of this lab, I needed to isolate the data from countries. I did this by defining all of the non-country variables and removing them from the data (see the *Import and set up the data* section in the Colab notebook).
+The data in the owid-co2-data.csv file also needed cleaning before my analysis, as it contained data from the world, regions, countries, and continents. For the purpose of this lab, I needed to isolate the countries from the rest of the data. I did this by defining all of the non-country variables and removing them from the data (see the *Import and set up the data* section in the Colab notebook).
 
 ## Author
 
