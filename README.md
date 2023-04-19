@@ -4,7 +4,7 @@ I will be using the data from [*Our World in Data*](https://github.com/owid/co2-
 
 ## Requirements
 
-I will be using the CoLab software, created by Google, to code with Python for this project. In it, I have imported the following softwares: Pandas, Numpy, Mathplotlib.Pyplot, Seaborn, and Missingno. Pandas is being used to effectively analyze, manipulate, and clean up data throughout the code. Numpy provides the code with multiple mathmatical operations to use on the data. Mathplotlib.Pyplot allows me to plot any data or equation and make changes to the plot's figure is necessary. Seaborn creates easily-readable graphs to assist with statistical analysis. Finally, Missingno is used to visualize the data to better check for its completeness.
+I will be using the Colaboratory system, created by Google, to code with Python for this project. In it, I have imported the following softwares: Pandas, Numpy, Mathplotlib.Pyplot, Seaborn, and Missingno. Pandas is being used to effectively analyze, manipulate, and clean up data throughout the code. Numpy provides the code with multiple mathmatical operations to use on the data. Mathplotlib.Pyplot allows me to plot any data or equation and make changes to the plot's figure is necessary. Seaborn creates easily-readable graphs to assist with statistical analysis. Finally, Missingno is used to visualize the data to better check for its completeness.
 
 ## Data
 
